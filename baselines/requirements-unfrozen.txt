@@ -6,6 +6,7 @@ scikit-learn
 pandas
 tqdm
 torch
+tensorflow
 einops
 hnswlib
 numpy
