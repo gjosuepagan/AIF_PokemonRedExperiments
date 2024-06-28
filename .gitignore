@@ -12,3 +12,6 @@ session_*
 PokemonRed.gb.state
 venv*
 .python-version
+poke_env/Lib/*
+poke_env/share/*
+poke_env/Scripts/*
